@@ -6,3 +6,5 @@ Esse App, foi desenvolvido por mim, no intuito de `proteger` mais ainda as `senh
 
 ## Como usar?
 
+- Baixe o [Node JS](https://nodejs.org/en/)
+- Depois baixe o react 
